@@ -8,7 +8,7 @@ In lab today, you will be building a single responsive web page based off of the
 ### Version: 0.1.0
 
 ### Links and Resources
-+ submission PR
++ [submission PR](https://github.com/sangmlee76/lab-01/pull/4)
 + [seattle-301d69 Class-01 demo](https://github.com/codefellows/seattle-301d69/tree/main/class-01/demos/smaccs-practice-flex)
 + [Responsive web design](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/#viewport)
 + [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
