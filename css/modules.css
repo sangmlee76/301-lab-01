@@ -4,3 +4,39 @@
   - hamburger menu
   - color, borders, padding, orientation
 */
+
+header{
+  background-color: lightcyan;
+}
+
+div #block-b{
+  background-color: lightgreen;
+}
+
+div #block-c{
+  background-color: lightpink;
+}
+
+div #block-d{
+  background-color: lightslategray;
+}
+
+div #block-e{
+  background-color: peru
+}
+
+div #block-f{
+  background-color: plum;
+}
+
+div #block-g{
+  background-color: violet;
+}
+
+div #block-h{
+  background-color: yellowgreen;
+}
+
+div #block-i{
+  background-color: goldenrod;
+}

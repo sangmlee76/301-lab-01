@@ -1,3 +1,79 @@
 /* The way we lay things out on a page
   - width, height, float, flexbox, css grid, margins, positioning
 */
+
+
+/*************************************************************/
+/************************* Overall ***************************/
+/*************************************************************/
+
+
+header#block-a{
+  height: 75px;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  line-height: 75px;
+}
+
+div{
+  margin: auto;
+  text-align: center;
+}
+
+/*************************************************************/
+/********************* Header (Box A) ************************/
+/*************************************************************/
+
+div#block-b{
+  height: 150px;
+  width: 100%;
+  line-height: 150px;
+}
+
+div#block-c{
+  height: 125px;
+  width: 100%;
+  line-height: 125px;
+}
+
+div#block-d{
+  height: 125px;
+  width: 100%;
+  line-height: 125px;
+}
+
+div#block-e{
+  height: 250px;
+  width: 50%;
+  line-height: 250px;
+  float: left;
+}
+
+div#block-f{
+  height: 250px;
+  width: 50%;
+  line-height: 250px;
+  float: right;
+}
+
+div#block-g{
+  height: 250px;
+  width: 50%;
+  line-height: 250px;
+  float: left;
+}
+
+div#block-h{
+  height: 250px;
+  width: 50%;
+  line-height: 250px;
+  float: right;
+}
+
+div#block-i{
+  height: 80px;
+  width: 100%;
+  line-height: 80px;
+  clear: both;
+}
