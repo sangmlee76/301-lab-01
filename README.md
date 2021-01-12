@@ -16,11 +16,10 @@ In lab today, you will be building a single responsive web page based off of the
 
 
 ### Reflections and Comments
-+ Consider including the answers to your daily journal and submission questions here
-+ This is also a good place to reflect on the tools and resources used and learned
++ This is a resubmission of my original work from when I first attempted december coohort. only minor updates have been made as the code is still functional.
 
 ### Updates
-+ N/A
++ 12 Jan 21 - Minor updates to index.html and readme.md
 
 
 
